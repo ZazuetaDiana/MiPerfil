@@ -9,8 +9,11 @@ Feliz de que visites  mi perfil ♥
 
 - 🔭 En bachillerato con informática.
 - 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
-                 
-#Horario de clases
+            
+            
+![](https://images.cooltext.com/5466593.png)
+            
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 +---------------+-------------------+-----------------------------------+-------+--------+-----------+--------+---------+
 |      Hora     |      Docente      |              Materia              | Lunes | Martes | Miercoles | Jueves | Viernes |
@@ -29,4 +32,3 @@ Feliz de que visites  mi perfil ♥
 +---------------+-------------------+-----------------------------------+-------+--------+-----------+--------+---------+
 | 19: 00-20: 00 | Pablo Adamir      | Prog. Lógica y Funcional          |   ○   |    ○   |     ○     |    ○   |         |
 +---------------+-------------------+-----------------------------------+-------+--------+-----------+--------+---------+
-
